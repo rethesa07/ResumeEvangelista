@@ -1,0 +1,158 @@
+body {
+  background-color:beige;
+}
+
+div.resume {
+  margin: 0 auto;
+  box-sizing: border-box;
+  padding: 0.3in;
+  width: 8.5in;
+  height: 13in;
+  background-color: white;
+  box-shadow: 0 3px; 8px; -3px; rgba(0, 0, 0, 0.7);
+}
+
+div.header h1 {
+  font:small-caps bold 2.5em/1.25em Georgia,serif;
+	text-align:center;
+	color:black;
+  text-shadow:7px 1px 3px lightgray;
+}
+
+div.header h3 {
+  font:small-caps 1.25em/.20em Verdana, Sans-Serif;
+  text-align:center;
+  color:gray;
+}
+
+div.contacts h3 {
+  text-align: center;
+  color:black;
+  font: Verdana, Sans-Serif;
+}
+
+.icon-img {
+  border: solid;
+  border-width: 2px;
+  margin-right: 10px;
+  vertical-align: middle;
+  width: 20px;
+  height: 20px;
+}
+
+.profile-box {
+  float: left;
+  box-shadow: 10px 10px 5px grey;
+  background-color: white;
+  height: 250px;
+  width: 700px;
+  margin: 15px 15px 15px 15px;
+  box-sizing: border-box;
+}
+
+.subheader-img {
+  float: left;
+  margin-right: 10px;
+  vertical-align: left;
+  height: 35px;
+  width: 35px;
+}
+
+.subheader {
+  font-family:'Lato', Sans-Serif;
+  text-align:left;
+  color:black;
+  font-size: 20px;
+}
+
+.content {
+  font-family: 'Lato', sans-serif;
+  font-weight: 400;
+  color:black;
+  font-size: 15px;
+  line-height: 20px;
+}
+
+.skills-box {
+  float: left;
+  box-shadow: 10px 10px 5px grey;
+  background-color: white;
+  height: 180px;
+  width: 690px;
+  margin: 15px 15px 15px 15px;
+  box-sizing: border-box;
+}
+
+ul.it-skills {
+  list-style-type: disc;
+}
+
+.job-title {
+  font-family: 'Lato', sans-serif;
+  font-weight: bold;
+  line-height: 20px;
+  box-sizing: border-box;
+}
+
+.work-box {
+  float: left;
+  box-shadow: 10px 10px 5px grey;
+  background-color: white;
+  height: 200px;
+  width: 690px;
+  margin: 15px 15px 15px 15px;
+  box-sizing: border-box;
+}
+
+.job-box {
+  float: left;
+  border-width: 0px 0px 3px 0px;
+  box-sizing: border-box;
+  margin: 0px 10px 0px 0px;
+  padding: 10px 10px 10px 10px;
+  width: 200px;
+  height: auto;
+}
+
+.job-content {
+  font-family: 'Lato', sans-serif;
+  font-size: 15px;
+  color:black;
+  line-height: 20px;
+  box-sizing: border-box;
+}
+
+.school-box {
+  float: left;
+  box-shadow: 10px 10px 5px grey;
+  background-color: white;
+  height: 180px;
+  width: 690px;
+  margin: 15px 15px 15px 15px;
+  box-sizing: border-box;
+}
+
+.campus-box{
+  float: left;
+  border-width: 0px 0px 3px 0px;
+  box-sizing: border-box;
+  margin: 0px 10px 0px 0px;
+  padding: 10px 10px 10px 10px;
+  width: 200px;
+  height: auto;
+}
+
+.degree {
+  font-family: 'Lato', sans-serif;
+  font-weight: bold;
+  line-height: 20px;
+  box-sizing: border-box;
+}
+
+.school-content {
+  font-family: 'Lato', sans-serif;
+  font-size: 15px;
+  color:black;
+  line-height: 20px;
+  box-sizing: border-box;
+}
